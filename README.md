@@ -42,3 +42,10 @@ INSTRUCTIONS
 - Watch out for monsters - shoot them to earn points
 - Collect coins to score points
 - Find the key on each level and get to the door to go to the next level
+
+
+CHALLENGES FACED:
+So.. Many.. Having the character interact with the environment (bounce of walls and such), creating enemies that could be shot/that could also harm the player, keeping track of score, etc... Having to figure out how to use classes was a big component for this project... I had numerous classes for the different enemies and ammunition and such. Once I got the hang of it, however, it wasn't too difficult. A huge struggle for me was having the player switch between levels; I had so many problems in terms of removing/adding levels to the "stage"... Furthermore, all the coins and enemies always had to be reset every time the level changed, and this proved to be far more difficult than I thought it would be. 
+
+MOST PROUD OF:
+There were several things I was very proud of with this project... First of all, some of my enemies had artificial intelligence, which I was very excited about achieving... The gargoyles are able to track the player's movement and follow him, which was something I worked hard to accomplish. Furthermore, having the program save a player's highscore to the computer's local drive was something I was extremely proud of. I also thought that incorporating sound effects into the game was a nice touch.
